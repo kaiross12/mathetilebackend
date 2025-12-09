@@ -1,5 +1,6 @@
-Flask
+flask
 flask-cors
-opencv-python
+opencv-python-headless
 numpy
 Werkzeug
+gunicorn
